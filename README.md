@@ -12,3 +12,7 @@ Contenu créé grâce à une version statique de Wordpress et hébergé sur GitH
 ****
 
 ## [https://alexandrewa.github.io/images](https://alexandrewa.github.io/images)
+
+# OU
+
+## [http://images.alexandrewauthier.fr/](http://images.alexandrewauthier.fr/)
