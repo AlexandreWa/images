@@ -87,10 +87,10 @@
         loadingTextClass: '',
 
         // customize / localize controls captions
-        closeBtnCaption: 'Close',
-        nextBtnCaption: 'Next',
-        prevBtnCaption: 'Previous',
-        loadingCaption: 'Loading...',
+        closeBtnCaption: 'Fermer',
+        nextBtnCaption: 'Suivant',
+        prevBtnCaption: 'Précédent',
+        loadingCaption: 'Chargement...',
 
         bindToItems: true, // set click event handler to trigger lightbox on provided $items
         closeOnOverlayClick: true,
