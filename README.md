@@ -7,7 +7,9 @@ Contenu créé grâce à une version statique de Wordpress et hébergé sur GitH
 **Fonctionnalités à améliorer**
 
 * Rendre la lightbox CSS opérationnelle une fois le projet poussé sur GitHub. Cet outil fonctionne hors ligne. ✅
-* Permettre aux métadonnées issues des posts Instagram d'être visibles. A faire. Solution manuelle trouvée et réalisée dans l'album **2016**. Reste à trouver le moyen d'automatiser l'ajout des métadonnées ❌
+* Permettre aux métadonnées issues des posts Instagram d'être visibles. ✅
+* Editer le CSS et insérer un fond de page sombre ❌
+* Editer le CSS et insérer la *favicon* WordPress ❌
 
 ****
 
