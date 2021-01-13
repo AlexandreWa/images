@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="fr">
+    <head>
+
+        <meta charset="utf-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<title>AW – 2021</title>
+<meta name="description" content="SimpleLightbox is lightweight and responsive lightbox library based on jQuery.">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link href='https://fonts.googleapis.com/css?family=Lato:400,300,700,900&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="build.min.css">
+<script src="build.min.js"></script>
+
+        <link rel="stylesheet" href="dist/simpleLightbox.min.css">
+        <script src="dist/simpleLightbox.min.js"></script>
+
+    </head>
+<body>
+
+    <section id="section-examples" class="attireBlock mod1">
+    <div class="inner">
+
+        <h2 class="attireTitleType2">AW – 2021</h2>
+
+        <div class="imageGallery1">
+      <a href="images/big/2021-01-04 18.35.46 2479351452657768066_1753567003_big.jpg" title="1"><img src="images/small/2021-01-04 18.35.46 2479351452657768066_1753567003_small.jpg" alt="test" /></a>
+      <a href="images/big/2021-01-13 18.12.03 2485862496544539156_1753567003_big.jpg" title="1"><img src="images/small/2021-01-13 18.12.03 2485862496544539156_1753567003_small.jpg" alt="test" /></a>
+
+</div>
+
+<style>
+
+    .imageGallery1 {
+
+        overflow: hidden; margin: 30px -20px;
+
+    }
+    .imageGallery1 > a {
+
+        float: left; width: 33.3333%; padding: 1px; box-sizing: border-box; position: relative;
+
+    }
+
+    .imageGallery1 > a:first-child { left: -1px; }
+    .imageGallery1 > a:last-child { right: -1px; }
+
+    .imageGallery1 > a > img {
+
+        display: block; width: 100%;
+
+    }
+
+</style>
+
+<script>
+
+    new SimpleLightbox({elements: '.imageGallery1 a'});
+
+    // or if using jQuery
+    // $('.imageGallery1 a').simpleLightbox();
+</script>
+
+</body>
+
+</html>
