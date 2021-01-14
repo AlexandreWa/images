@@ -17,4 +17,4 @@ Contenu créé grâce à une version statique de Wordpress et hébergé sur GitH
 
 # OU
 
-## [http://images.alexandrewa.com/](http://images.alexandrewa.com/)
+## [https://images.alexandrewa.com/](http://images.alexandrewa.com/)
